@@ -1,4 +1,4 @@
-# NUMBER-GUESSING-GAME🎯 Number Guessing Game (C++)
+# NUMBER-GUESSING-GAME
 
 Welcome to the Number Guessing Game, a simple and interactive console-based game written in C++. This game challenges the user to guess a randomly generated number between 1 and 100, with feedback provided after each guess. It also keeps track of the number of attempts and offers the option to replay the game.
 📋 Features
